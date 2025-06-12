@@ -412,6 +412,3 @@ FodyWeavers.xsd
 **/.idea/
 /bin/
 /obj/
-*.csproj
-*.json
-*.http
